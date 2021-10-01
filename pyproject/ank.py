@@ -18,9 +18,9 @@ while count< round(math.log(UL-LL+1,2)):
     guess=int(input("Enter your guessed number:"))
 
     if guess > x:
-        print("Your guess is too high")
+        print("Your guess is toooooooo high")
     elif guess < x:
-        print("Your guess is too low")
+        print("Your guess is toooooooo low")
     elif guess==x:
         print("Your guess is correct the number is", guess)
         break
